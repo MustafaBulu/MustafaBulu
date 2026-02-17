@@ -60,11 +60,21 @@ observability practices, and end-to-end delivery quality.
 [![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
+
+### Testing & API Tools
+
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
 
 ### Process
 
 [![Agile Scrum](https://img.shields.io/badge/Agile-Scrum-0A66C2)](#)
+
+### Also Used (Hobby Projects)
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 ## Selected Projects
 

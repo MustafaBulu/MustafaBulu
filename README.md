@@ -48,5 +48,3 @@ observability practices, and end-to-end delivery quality.
 
 - GitHub: [@MustafaBulu](https://github.com/MustafaBulu)
 - LinkedIn: _(add your profile link)_
-
-<!-- profile refresh trigger -->

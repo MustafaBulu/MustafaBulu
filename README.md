@@ -83,10 +83,10 @@ observability practices, and end-to-end delivery quality.
 
 ## Selected Projects
 
-- **ELK Microservice Log Application** ([repo](https://github.com/MustafaBulu/ELK-microservice-log-application)): Event-driven microservices with Kafka, ELK, Prometheus, and Grafana.
-- **GameRemoteServer (Hobby)** ([repo](https://github.com/MustafaBulu/GameRemoteServer)): WebRTC-based remote game streaming and control.
-- **Eczane / Pharmacy App (Hobby)** ([repo](https://github.com/MustafaBulu/pharmacy-app)): Android app for pharmacy discovery and medication reminders.
-- **Smart Pantry (Hobby)** ([repo](https://github.com/MustafaBulu/smart-pantry)): Backend service for product tracking and daily marketplace price history.
+- **ELK Microservice Log Application** ([repo](https://github.com/MustafaBulu/ELK-microservice-log-application)): Built a Dockerized, event-driven microservices environment with centralized logging and real-time observability to improve monitoring and incident analysis.
+- **GameRemoteServer (Hobby)** ([repo](https://github.com/MustafaBulu/GameRemoteServer)): Developed low-latency remote game control capabilities over WebRTC to validate real-time streaming and interaction patterns.
+- **Eczane / Pharmacy App (Hobby)** ([repo](https://github.com/MustafaBulu/pharmacy-app)): Delivered an Android app that improves medication and nearby pharmacy accessibility for everyday user needs.
+- **Smart Pantry (Hobby)** ([repo](https://github.com/MustafaBulu/smart-pantry)): Implemented inventory and price-history workflows that help users track pantry items and make more informed purchase decisions.
 
 ## Contact
 

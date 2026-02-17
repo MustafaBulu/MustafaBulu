@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mustafa Bulu</h1>
 <p align="center">
-  Software Developer based in Istanbul • Java / Spring Boot • Building practical systems as side projects
+  Software Developer based in Istanbul • Backend-focused • Java / Spring Boot
 </p>
 
 <p align="center">
@@ -11,10 +11,16 @@
 
 ## About Me
 
-- 2021 graduate from Manisa Celal Bayar University
-- Working as a software developer since July 2022
-- Focused on backend development with Java and Spring Boot
-- Building hobby projects outside work to improve architecture, product thinking, and delivery speed
+I am a software developer focused on building reliable backend systems and practical products.
+I mainly work with Java and Spring Boot, and I use side projects to improve architecture decisions,
+observability practices, and end-to-end delivery quality.
+
+## Focus Areas
+
+- Backend system design and API development
+- Event-driven architecture and async communication
+- Observability (logs, metrics, dashboards)
+- Maintainable code, testability, and production readiness
 
 ## Tech Stack
 
@@ -31,47 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36" />
 </p>
 
-## Highlight Projects
+## Selected Projects
 
-### 1) ELK Microservice Log Application
-Event-driven Spring microservices setup with full observability.
-
-- Microservices with Eureka + Gateway + Auth + User modules
-- Kafka-based event flow with outbox pattern
-- ELK for logs, Prometheus + Grafana for metrics
-- Dockerized local platform for end-to-end testing
-
-### 2) GameRemoteServer (Hobby)
-Low-latency remote PC game streaming + control.
-
-- WebRTC-based screen/audio streaming
-- WebSocket signaling and pairing flow (code + token)
-- Android/web viewer + Windows input agent
-- Designed for LAN and internet-based usage
-
-### 3) Eczane / Pharmacy App (Hobby)
-Android app for pharmacy discovery and medicine reminders in Turkey.
-
-- Kotlin + Jetpack Compose + MVVM
-- Pharmacy and duty pharmacy listing with city/district filters
-- Room-based local persistence for reminders and notes
-- AlarmManager + notifications for medication schedule
-
-### 4) Smart Pantry (Hobby)
-Backend service for marketplace-based product and price tracking.
-
-- Spring Boot + PostgreSQL + scheduler architecture
-- Product/category management APIs
-- Marketplace scraping integrations (Migros / Yemeksepeti)
-- Daily price history collection and searchable records
-
-## What I Care About
-
-- Clean and maintainable service architecture
-- Production-oriented error handling and observability
-- Practical automation for repetitive workflows
-- Building real, testable features instead of demo-only code
+- **ELK Microservice Log Application**: Event-driven microservices with Kafka, ELK, Prometheus, and Grafana.
+- **GameRemoteServer (Hobby)**: WebRTC-based remote game streaming and control.
+- **Eczane / Pharmacy App (Hobby)**: Android app for pharmacy discovery and medication reminders.
+- **Smart Pantry (Hobby)**: Backend service for product tracking and daily marketplace price history.
 
 ## Contact
 
 - GitHub: [@MustafaBulu](https://github.com/MustafaBulu)
+- LinkedIn: _(add your profile link)_

@@ -28,8 +28,13 @@ observability practices, and end-to-end delivery quality.
 
 [![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](#)
+[![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white)](#)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)](#)
 [![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white)](#)
+[![Spring Boot Actuator](https://img.shields.io/badge/Spring_Boot_Actuator-6DB33F?logo=springboot&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)](#)
+[![Lombok](https://img.shields.io/badge/Lombok-BC4521?logo=java&logoColor=white)](#)
+[![MapStruct](https://img.shields.io/badge/MapStruct-1A73E8?logo=java&logoColor=white)](#)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)](#)
 [![JUnit](https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white)](#)
 [![Mockito](https://img.shields.io/badge/Mockito-2E8B57?logo=mockito&logoColor=white)](#)

@@ -45,10 +45,17 @@ observability practices, and end-to-end delivery quality.
 ### DevOps & Observability
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)](#)
+[![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white)](#)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](#)
+
+### Process
+
+[![Agile Scrum](https://img.shields.io/badge/Agile-Scrum-0A66C2)](#)
 
 ## Selected Projects
 

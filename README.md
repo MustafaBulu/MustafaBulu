@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mustafa Bulu</h1>
 <p align="center">
-  Software Developer based in Istanbul - Backend-focused - Java / Spring Boot
+  Software Developer based in Istanbul - Backend-focused Full Stack (Java/Spring, React/Next.js)
 </p>
 
 <p align="center">

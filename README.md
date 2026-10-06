@@ -87,7 +87,7 @@ Recently, I have been building public portfolio systems around realtime feature 
 - **Flight Reservation Platform** ([repo](https://github.com/MustafaBulu/flight-reservation)): High-traffic reservation system with concurrency-safe seat flows, idempotency, rate limiting, indexed queries, Redis caching, Kubernetes/HPA, OpenTelemetry, Prometheus/Grafana, CI load-test gates, and security scans.
 - **Car Service Manager** ([repo](https://github.com/MustafaBulu/car-service-manager)): Workshop management system with Spring Boot, React/TypeScript, optimistic and pessimistic locking, explicit state rules, RabbitMQ audit events, idempotent consumers, DLQ behavior, Testcontainers, and Docker Compose smoke E2E coverage.
 - **Event-Driven Microservices Platform** ([repo](https://github.com/MustafaBulu/ELK-microservice-log-application)): Spring Boot microservices environment with Kafka event flow, transactional outbox publishing, idempotent consumers, retry/DLT handling, Spring Cloud Gateway, Eureka, JWT auth, ELK logging, Prometheus/Grafana, and automated tests.
-- **SafeConfig / Config Rollout Plane** ([repo](https://github.com/MustafaBulu/config-rollout-plane), in progress): Go control-plane/data-plane/agent architecture for safe runtime configuration delivery with immutable versions, rollout stages, deterministic cohorts, acknowledgement coverage, rollback, ETag snapshots, and last-known-good caching.
+- **SafeConfig / Config Rollout Plane** ([repo](https://github.com/MustafaBulu/config-rollout-plane)): Go control-plane/data-plane/agent architecture for safe runtime configuration delivery with immutable versions, rollout stages, deterministic cohorts, acknowledgement coverage, rollback, ETag snapshots, and last-known-good caching.
 
 ## Contact
 

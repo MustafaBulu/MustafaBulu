@@ -15,7 +15,7 @@
 I am a backend-focused Software Engineer with 2.5+ years of professional experience building Java and Spring applications across the full software development lifecycle.
 I focus on production-ready backend systems: secure REST APIs, microservices, event-driven architecture, distributed consistency, caching, database performance, observability, containerization, and automated testing.
 
-Recently, I have been building public portfolio systems around payment orchestration, usage-based billing, high-traffic reservations, event-driven microservices, concurrency-sensitive workflows, and runtime configuration delivery.
+Recently, I have been building public portfolio systems around realtime feature serving, payment orchestration, usage-based billing, high-traffic reservations, event-driven microservices, concurrency-sensitive workflows, and runtime configuration delivery.
 
 ## Current Focus
 
@@ -81,6 +81,7 @@ Recently, I have been building public portfolio systems around payment orchestra
 
 ## Selected Projects
 
+- **Realtime Feature Platform** ([repo](https://github.com/MustafaBulu/realtime-feature-platform)): Built a Java 21 / Spring Boot streaming feature platform that computes low-latency entity features from Kafka events, materializes online reads through Redis, keeps request-time PostgreSQL baseline reads for correctness comparison, uses RocksDB-backed worker state with replay-safe Redis projection recovery, and includes Testcontainers, k6, CI, and saved benchmark evidence.
 - **Payment Orchestration Platform** ([repo](https://github.com/MustafaBulu/banking-orchestration-platform)): Built a Java 21 / Spring Boot distributed payment platform with DDD, Hexagonal Architecture, CQRS, Event Sourcing, Kafka, gRPC, PostgreSQL, durable saga flows, transactional outbox, idempotent consumers, double-entry ledger posting, and distributed tracing.
 - **Billing Platform** ([repo](https://github.com/MustafaBulu/billing-platform-parent)): Developed a multi-tenant usage-based billing platform covering tenant onboarding, usage ingestion, rating, invoice generation, payment, and settlement with Kafka-based orchestration, observability, OpenAPI, Docker Compose, Kubernetes, k6 scenarios, and CI quality/security gates.
 - **Flight Reservation Platform** ([repo](https://github.com/MustafaBulu/flight-reservation)): Built a Spring Boot / Next.js booking platform with concurrency-safe seat flows, idempotency, rate limiting, indexed queries, Redis caching, Kubernetes/HPA, OpenTelemetry, Prometheus/Grafana dashboards, CI load-test gates, and security scans.
